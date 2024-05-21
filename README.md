@@ -25,5 +25,3 @@ We are using a few datasets. For training:
 3. [Malignant Comment Classification](https://www.kaggle.com/datasets/surekharamireddy/malignant-comment-classification) as more training data and test data. 
 
 The Ethos and Malignant datasets each label their entries into different buckets. The Ethos dataset directly labels as hate speech whereas the Malignant dataset labels as "malignant", which is more broad than hate speech as it can encompass cyber-bullying and other "less-intense" forms of cyber-aggression. Additionally, each dataset is sourced from different areas of the internet (ie, the comments from one dataset come from a set of individuals that is likely quite different from another group of individuals). Therefore, when using these datasets, it is important to keep that in mind. 
-
-### Results so far
